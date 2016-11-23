@@ -12,3 +12,20 @@ read_binary.c:
 decode.c:
 
               Read All XXX.data binary file,and count total value.
+
+
+Point function:
+
+FILE *fopen(const char *path, const char *mode);
+
+‘r’  : Open text file for reading.
+
+‘r+’ : Open for reading and writing. 
+
+‘w’  : Truncate file to 'zero length'(empty data) or create text file for writing.
+
+‘w+’ : Open for reading and writing. The file is created if it does not exist, otherwise it is truncated.
+
+‘a’  : Open for appending (writing at end of file). 
+
+‘a+’ : Open for reading and appending (writing at end of file).
