@@ -18,6 +18,8 @@ Point function:
 
 FILE *fopen(const char *path, const char *mode);
 
+The second argument is the mode can be :
+
 ‘r’  : Open text file for reading.
 
 ‘r+’ : Open for reading and writing. 
