@@ -19,10 +19,13 @@ decode.c:
 Practice:
 ------------------------------------------------------------------
 fakefile.c:
+
             pack a file in to another
 
 unfakefile.c:
+
             unpack fake file
+
 
 Point function:
 
