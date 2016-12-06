@@ -15,7 +15,14 @@ read_binary.c:
 decode.c:
 
               Read All XXX.data binary file,and count total value.
+              
+Practice:
+------------------------------------------------------------------
+fakefile.c:
+            pack a file in to another
 
+unfakefile.c:
+            unpack fake file
 
 Point function:
 
