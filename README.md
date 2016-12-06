@@ -20,7 +20,7 @@ Practice:
 ------------------------------------------------------------------
 fakefile.c:
 
-            pack a file in to another
+            pack a file(data file) into another(key of fake file)
 
 unfakefile.c:
 
