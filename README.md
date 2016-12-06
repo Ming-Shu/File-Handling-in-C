@@ -2,7 +2,6 @@
 C Programming simple examples on file handling
 
 File handle:
-
 ----------------------------------------------------------------
 
 Data.txt:
