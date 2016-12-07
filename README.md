@@ -18,11 +18,11 @@ decode.c:
               
 Practice:
 ------------------------------------------------------------------
-fakefile.c:
+fakefile.c/packfile.c:
 
             pack a file(data file) into another(key of fake file)
 
-unfakefile.c:
+unfakefile.c/unpackfile.c:
 
             unpack fake file
 
